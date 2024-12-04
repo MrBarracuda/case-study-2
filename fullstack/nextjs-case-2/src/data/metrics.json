@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "Page Views",
+    "value": 1800,
+    "date": "2024-11-19",
+    "category": "Traffic"
+  },
+  {
+    "id": 2,
+    "name": "Sign-Ups",
+    "value": 1200,
+    "date": "2023-11-24",
+    "category": "User Acquisition"
+  },
+  {
+    "id": 3,
+    "name": "Revenue",
+    "value": 5000,
+    "date": "2023-11-29",
+    "category": "Sales"
+  },
+  {
+    "id": 4,
+    "name": "Active Users",
+    "value": 950,
+    "date": "2023-12-01",
+    "category": "Engagement"
+  },
+  {
+    "id": 5,
+    "name": "Revenue",
+    "value": 4000,
+    "category": "Sales",
+    "date": "2024-12-04"
+  },
+  {
+    "id": 6,
+    "name": "Revenue",
+    "value": 2500,
+    "category": "Sales",
+    "date": "2024-12-04"
+  },
+  {
+    "id": 7,
+    "name": "Page Views\t",
+    "value": 999,
+    "category": "Traffic",
+    "date": "2024-12-04"
+  }
+]
